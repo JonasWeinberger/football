@@ -1,5 +1,8 @@
 # Google Research Football
 
+Erste Zeile
+Zweite Zeile
+
 This repository contains an RL environment based on open-source game Gameplay
 Football. <br> It was created by the Google Brain team for research purposes.
 
@@ -14,12 +17,13 @@ Useful links:
 
 We'd like to thank Bastiaan Konings Schuiling, who authored and open-sourced the original version of this game.
 
+Dritte Zeile
 
 ## Quick Start
 
 ### In colab
 
-Open our example [Colab](https://colab.research.google.com/github/google-research/football/blob/master/gfootball/colabs/gfootball_example_from_prebuild.ipynb), that will allow you to start training your model in less than 2 minutes.
+Open Änderungen in Text our example [Colab](https://colab.research.google.com/github/google-research/football/blob/master/gfootball/colabs/gfootball_example_from_prebuild.ipynb), that will allow you to start training your model in less than 2 minutes.
 
 This method doesn't support game rendering on screen - if you want to see the game running, please use the method below.
 
